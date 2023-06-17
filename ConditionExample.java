@@ -1,4 +1,5 @@
 import java.util.*;
+// Conditinal Statement
 class ConditionExample{
 	public static void main(String[] args) {
 	Scanner object= new Scanner(System.in);
